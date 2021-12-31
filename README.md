@@ -5,7 +5,7 @@
 <img src="https://github.com/ammaralsharee/MyUMP/blob/main/Images/Home_page.jpg" width="200" height="400" /> 
 <br><i><b>Events</b></i>
 <img src="https://github.com/ammaralsharee/MyUMP/blob/main/Images/Events.jpg" width="200" height="400" />
-<br><i><b>Platforms</b></i>
+<br><i><b>Resources</b></i>
 <img src="https://github.com/ammaralsharee/MyUMP/blob/main/Images/Platforms.jpg" width="200" height="400" />
 <br><i><b>Explore</b></i>
 <img src="https://github.com/ammaralsharee/MyUMP/blob/main/Images/Explore.jpg" width="200" height="400" />
