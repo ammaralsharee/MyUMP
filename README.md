@@ -1,8 +1,8 @@
 # myUMP
 - MyUMP is the first mobile app designed for University Malaysia Pahang, which allows the students to navigate through the campus and provide information for the new visitors. 
 - Languages/Technologies: JAVA, XML, MVVM and Firebase
-![20200706_201257](https://user-images.githubusercontent.com/61347124/147833866-225d404e-3563-4b76-a364-e5dfd08b8dbc.jpg)
-![20200706_201421](https://user-images.githubusercontent.com/61347124/147833869-d56ef9db-70f0-490a-8975-9bc4fba96e36.jpg)
+![20200706_201257](https://user-images.githubusercontent.com/61347124/147833866-225d404e-3563-4b76-a364-e5dfd08b8dbc.jpg  =250x250)
+![20200706_201421](https://user-images.githubusercontent.com/61347124/147833869-d56ef9db-70f0-490a-8975-9bc4fba96e36.jpg  =250x250)
 ![Screenshot_20200706-201140_UMP](https://user-images.githubusercontent.com/61347124/147833870-8cce2a00-415d-401c-b97a-0956299242ce.jpg)
 ![Screenshot_20200706-201208_UMP](https://user-images.githubusercontent.com/61347124/147833872-6235ab6f-9fe4-434f-8e48-5f1bc65688cf.jpg)
 ![Screenshot_20200706-201219_UMP](https://user-images.githubusercontent.com/61347124/147833873-a85f8e2d-eb49-42fd-87ff-272a23935bce.jpg)
